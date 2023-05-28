@@ -151,7 +151,7 @@ color:#FBBA33;
 color:#DE2879;
 }
 .solution-wrapper>div:nth-child(2)>div:first-child{
-    order: 2;
+    order:2;
 }
 .solution-wrapper>div:nth-child(2)>div:last-child{
     order:1;
